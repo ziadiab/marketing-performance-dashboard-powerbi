@@ -66,7 +66,7 @@ Tracks overall business health using KPI cards and monthly trends.
 
 ## 2️⃣ Revenue Growth Trends
 
-Measures momentum using MoM growth and cumulative revenue.
+Measures momentum using MoM revenue growth and cumulative revenue.
 
 ![Growth Trends](assets/02_Revenue_Growth_Trends.png)
 
