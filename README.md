@@ -2,11 +2,35 @@
 
 ## 🚀 Executive Summary
 
-This project transforms raw multi-channel marketing campaign data into an executive-level Power BI dashboard focused on **profitability, growth, conversion performance, and budget optimization**.
+This project transforms the same marketing dataset previously analyzed in Excel into a fully interactive **Power BI dashboard** focused on profitability, growth trends, conversion performance, and budget optimization.
 
-The analysis shows that **$2.6M in ad spend generated $13.32M in revenue**, delivering a strong **5.12x ROAS** and **198K purchases**. However, channel, funnel, and market differences reveal clear opportunities to scale winners and reduce inefficiencies.
+While the earlier Excel project emphasized spreadsheet analytics and dashboarding, this version rebuilds the analysis using **Power BI data modeling, DAX measures, and interactive storytelling** to create a more scalable business intelligence solution.
 
-This project demonstrates how data can be converted into business decisions through storytelling, DAX measures, and dashboard design.
+The analysis shows that **$2.6M in ad spend generated $13.32M in revenue**, delivering a strong **5.12x ROAS** and **198K purchases**.
+
+---
+
+# 🔁 Project Evolution: Excel → Power BI
+
+This project uses the same dataset as my previous Excel project:
+
+➡️ **Excel Version:**  
+https://github.com/ziadiab/voss-collective-marketing-analytics
+
+### Why rebuild it in Power BI?
+
+The goal was to demonstrate growth in analytics skills by moving from spreadsheet reporting to BI development.
+
+### What changed in the Power BI version?
+
+- Built a **star schema data model**
+- Created custom **DAX measures**
+- Added interactive filtering and drill-down
+- Improved storytelling across multiple report pages
+- Structured insights for business stakeholders
+- Designed a scalable dashboard environment
+
+This shows how the same business problem can be solved using different tools at different maturity levels.
 
 ---
 
@@ -76,7 +100,7 @@ Analyzes customer journey from impressions to purchases.
 ### Key Insights:
 - Biggest drop happens between **Impressions → Clicks**
 - Indicates weak traffic qualification or creative mismatch
-- Once users enter funnel, conversion remains relatively stable
+- Once users enter the funnel, conversion remains relatively stable
 - Google converts slightly better than other channels
 
 ---
@@ -89,9 +113,9 @@ Identifies waste using CPA, CPM, and campaign-level returns.
 
 ### Key Insights:
 - Some campaigns absorb budget while producing weak returns
-- **Meta has highest CPA**
+- **Meta has the highest CPA**
 - **Google shows lower CPM efficiency**
-- Reallocating budget can improve total profitability
+- Reallocating the budget can improve total profitability
 
 ---
 
@@ -119,7 +143,7 @@ Final business actions based on the dashboard findings.
 1. Scale high-ROAS platforms and campaigns  
 2. Improve CTR through stronger creatives  
 3. Fix landing pages to reduce funnel leakage  
-4. Cut spend on low-return campaigns  
+4. Cut spending on low-return campaigns  
 5. Increase investment in top-performing countries  
 6. Monitor weekly KPIs for faster decisions  
 
@@ -130,7 +154,7 @@ Final business actions based on the dashboard findings.
 ## Data Preparation
 - Cleaned raw Excel dataset
 - Standardized fields and formats
-- Created date table for time analysis
+- Created a date table for time analysis
 
 ## Data Modeling
 Built a star schema model with:
@@ -173,9 +197,9 @@ Built a star schema model with:
 - Time Intelligence
 
 ## Excel
-- Data Cleaning
+- Source Preparation
 - Validation
-- Structuring Raw Data
+- Previous Dashboard Build
 
 ## Business Analytics
 - Funnel Analysis
