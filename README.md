@@ -109,7 +109,7 @@ Analyzes customer journey from impressions to purchases.
 
 Identifies waste using CPA, CPM, and campaign-level returns.
 
-![Cost Efficiency](assets/05_Cost_Efficiency_and_Budget_Waste.png)
+![Cost Efficiency](assets/05_Cost Efficiency_and_Budget_Waste.png)
 
 ### Key Insights:
 - Some campaigns absorb budget while producing weak returns
