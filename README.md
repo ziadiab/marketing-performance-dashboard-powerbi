@@ -1,6 +1,6 @@
 # Marketing Campaign Performance Analysis | Power BI Dashboard | Funnel Analysis | ROI Optimization
 
-## 🚀 Executive Summary
+## Executive Summary
 
 This project transforms the same marketing dataset previously analyzed in Excel into a fully interactive **Power BI dashboard** focused on profitability, growth trends, conversion performance, and budget optimization.
 
@@ -10,11 +10,11 @@ The analysis shows that **$2.6M in ad spend generated $13.32M in revenue**, deli
 
 ---
 
-# 🔁 Project Evolution: Excel → Power BI
+# Project Evolution: Excel → Power BI
 
 This project uses the same dataset as my previous Excel project:
 
-➡️ **Excel Version:**  
+**Excel Version:**  
 https://github.com/ziadiab/voss-collective-marketing-analytics
 
 ### Why rebuild it in Power BI?
@@ -34,7 +34,7 @@ This shows how the same business problem can be solved using different tools at 
 
 ---
 
-# 📌 Business Problem
+# Business Problem
 
 Marketing teams often spend across multiple platforms and markets without clear visibility into:
 
@@ -48,7 +48,7 @@ The objective was to turn raw campaign data into actionable insights for smarter
 
 ---
 
-# 🖼 Dashboard Preview
+# Dashboard Preview
 
 ## 1️⃣ Marketing Performance Overview
 
@@ -109,7 +109,7 @@ Analyzes customer journey from impressions to purchases.
 
 Identifies waste using CPA, CPM, and campaign-level returns.
 
-![Cost Efficiency](assets/05_Cost_Efficiency_and_Budget Waste.png)
+![Cost Efficiency](assets/05_Cost_Efficiency_and_Budget_Waste.png)
 
 ### Key Insights:
 - Some campaigns absorb budget while producing weak returns
@@ -149,7 +149,7 @@ Final business actions based on the dashboard findings.
 
 ---
 
-# 🧠 Methodology
+# Methodology
 
 ## Data Preparation
 - Cleaned raw Excel dataset
@@ -181,7 +181,7 @@ Built a star schema model with:
 
 ---
 
-# 🛠 Skills Demonstrated
+# Skills Demonstrated
 
 ## Power BI
 - Dashboard Design
@@ -209,7 +209,7 @@ Built a star schema model with:
 
 ---
 
-# 📈 Business Impact
+# Business Impact
 
 This dashboard helps stakeholders:
 
@@ -222,7 +222,7 @@ This dashboard helps stakeholders:
 
 ---
 
-# 🔮 Next Steps
+# Next Steps
 
 Future enhancements could include:
 
